@@ -29,6 +29,8 @@
 <h2 align="left">Dashboard</h2>
 
 ###
+![image](https://github.com/user-attachments/assets/51ab2773-9a37-437f-b51a-b162f63e88b9)
+
 
 <h2 align="left">Visualizations and Key Insights</h2>
 
